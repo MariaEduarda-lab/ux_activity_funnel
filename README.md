@@ -7,7 +7,15 @@
 
 ### 1. Tela(s) analisada(s)
 
-* **Visualização:** ![Recursos alocados](./assets/recursos_alocados.jpeg)
+* **Visualização:** 
+
+![Menu](./assets/menu.jpeg)
+
+![Lista de Ocorrências](./assets/lista_ocorrencias.jpeg)
+
+![Recursos alocados](./assets/recursos_alocados.jpeg)
+
+![Ocorrência em Pausa](./assets/pausa_teste.jpeg)
 
 * **Descrição do contexto:** Fluxo de gerenciamento de chamados onde o usuário visualiza a lista de registros e acessa os detalhes para interromper o progresso de uma atividade (pausar a ocorrência).
 
