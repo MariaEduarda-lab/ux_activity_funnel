@@ -7,7 +7,7 @@
 
 ### 1. Tela(s) analisada(s)
 
-* **Visualização:** ![Link ou Caminho da Imagem](url_da_imagem_aqui)
+* **Visualização:** ![Recursos alocados](./assets/recursos_alocados.jpeg)
 
 * **Descrição do contexto:** Fluxo de gerenciamento de chamados onde o usuário visualiza a lista de registros e acessa os detalhes para interromper o progresso de uma atividade (pausar a ocorrência).
 
